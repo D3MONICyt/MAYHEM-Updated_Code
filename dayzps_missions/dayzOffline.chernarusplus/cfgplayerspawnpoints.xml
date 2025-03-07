@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>60</min_dist_infected>
+            <max_dist_infected>70</max_dist_infected>
+            <min_dist_player>65</min_dist_player>
+            <max_dist_player>150</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Balota">
+                <pos x="4333.82" z="2542.26" />
+            </group>
+            <group name="Cherno">
+                <pos x="6612.89" z="2560.97" />
+            </group>
+            <group name="Elektro">
+                <pos x="10426.40" z="2206.16" />
+            </group>
+            <group name="Berezeno">
+                <pos x="12945.81" z="10170.50" />
+            </group>
+            <group name="Vybor">
+                <pos x="3752.75" z="8890.50" />
+            </group>
+            <group name="Stary">
+                <pos x="6099.87" z="7729.58" />
+            </group>
+            <group name="Severo">
+                <pos x="7719.86" z="12630.86" />
+            </group>
+        </generator_posbubbles>
+    </fresh>
+    <hop>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Balota">
+                <pos x="4333.82" z="2542.26" />
+            </group>
+            <group name="Cherno">
+                <pos x="6612.89" z="2560.97" />
+            </group>
+            <group name="Elektro">
+                <pos x="10426.40" z="2206.16" />
+            </group>
+            <group name="Berezeno">
+                <pos x="12945.81" z="10170.50" />
+            </group>
+            <group name="Vybor">
+                <pos x="3752.75" z="8890.50" />
+            </group>
+            <group name="Stary">
+                <pos x="6099.87" z="7729.58" />
+            </group>
+            <group name="Severo">
+                <pos x="7719.86" z="12630.86" />
+            </group>
+        </generator_posbubbles>
+    </hop>
+    <travel>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+       <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Balota">
+                <pos x="4333.82" z="2542.26" />
+            </group>
+            <group name="Cherno">
+                <pos x="6612.89" z="2560.97" />
+            </group>
+            <group name="Elektro">
+                <pos x="10426.40" z="2206.16" />
+            </group>
+            <group name="Berezeno">
+                <pos x="12945.81" z="10170.50" />
+            </group>
+            <group name="Vybor">
+                <pos x="3752.75" z="8890.50" />
+            </group>
+            <group name="Stary">
+                <pos x="6099.87" z="7729.58" />
+            </group>
+            <group name="Severo">
+                <pos x="7719.86" z="12630.86" />
+            </group>
+        </generator_posbubbles>
+    </travel>
+</playerspawnpoints>
