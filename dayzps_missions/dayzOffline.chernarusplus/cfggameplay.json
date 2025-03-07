@@ -9,7 +9,7 @@
 	},
     "PlayerData":
 	{
-		"spawnGearPresetFiles": ["custom/MilitaryFreshSpawn1.json"]
+		"spawnGearPresetFiles": ["custom/Freshie.json"]
 		"disablePersonalLight": false,
 		"StaminaData":
 		{
